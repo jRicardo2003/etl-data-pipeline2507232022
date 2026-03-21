@@ -1,0 +1,24 @@
+id_actividad,id_usuario,accion,fecha_actividad,modulo,motivo_rechazo
+ACT9014,,login,2024-03-11 19:00:00,inventario,id_usuario nulo
+ACT9015,US447,crear pedido,,usuarios,fecha inválida o nula
+ACT9029,US491,crear pedido,,usuarios,fecha inválida o nula
+ACT9030,,logout,2024-03-22 01:00:00,usuarios,id_usuario nulo
+ACT9034,,anular pedido,2024-04-24 15:00:00,usuarios,id_usuario nulo
+ACT9037,,cambio clave,2024-10-18 12:00:00,reportes,id_usuario nulo
+ACT9040,US460,anular pedido,,seguridad,fecha inválida o nula
+ACT9055,US426,login,,seguridad,fecha inválida o nula
+ACT9065,US504,anular pedido,,seguridad,fecha inválida o nula
+ACT9066,,actualizar pedido,,usuarios,id_usuario nulo
+ACT9078,US478,anular pedido,,ventas,fecha inválida o nula
+ACT9087,,actualizar pedido,2024-01-25 07:00:00,seguridad,id_usuario nulo
+ACT9107,US464,consulta,,reportes,fecha inválida o nula
+ACT9114,US431,actualizar pedido,,ventas,fecha inválida o nula
+ACT9115,US459,consulta,,ventas,fecha inválida o nula
+ACT9119,US511,actualizar pedido,,ventas,fecha inválida o nula
+ACT9139,US419,consulta,,inventario,fecha inválida o nula
+ACT9145,US473,consulta,,inventario,fecha inválida o nula
+ACT9152,,crear pedido,2024-04-24 15:00:00,usuarios,id_usuario nulo
+ACT9159,US429,actualizar pedido,,usuarios,fecha inválida o nula
+ACT9170,US449,logout,,usuarios,fecha inválida o nula
+ACT9201,US427,crear pedido,,usuarios,fecha inválida o nula
+ACT9230,,consulta,2024-05-05 18:00:00,inventario,id_usuario nulo
