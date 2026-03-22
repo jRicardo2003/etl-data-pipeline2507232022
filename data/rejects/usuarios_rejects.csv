@@ -1,0 +1,5 @@
+id_usuario,usuario,correo,rol,estado,motivo_rechazo
+US412,user_12,,admin,bloqueado,datos incompletos
+US433,user_33,,operador,bloqueado,datos incompletos
+US490,user_90,,analista,activo,datos incompletos
+US497,user_97,,operador,activo,datos incompletos
